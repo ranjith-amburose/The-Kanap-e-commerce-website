@@ -16,6 +16,7 @@ fetch('http://localhost:3000/api/products')
   });
 
   //---------I DISPLAY ALL PRODUCTS---------
+  
 function showProducts(data) {
     // for my product variable of my promise .then data
     for (product of data) {
