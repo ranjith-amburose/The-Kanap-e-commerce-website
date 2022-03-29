@@ -15,3 +15,6 @@ Create the main products page with Javascript. Those products will be shown on t
 
 # Technical challenges
 Retrieve the elements to display dynamically. Change the API URL depending on the chosen item. Store the chosen items in the localStorage. List the chosen items and calculate the total amount. Retrieve the client informations from the form, with his/her order.
+
+# First Javascript project !
+This is my first Javascript project ever. That is why you will see a lot of comments in my codes. These comments will help me to better understand my codes and it could be helpful later when I will come back to this.
