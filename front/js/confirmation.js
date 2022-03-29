@@ -4,6 +4,5 @@ function checkout(){
   localStorage.clear();
 }
 checkout();
-
 // End of confirmation.js
 //-----------------------------------------------------------//
