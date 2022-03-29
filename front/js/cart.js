@@ -274,9 +274,7 @@ function postForm() {
 }) // end eventListener postForm
 } // end of sending the form postForm
 postForm();
-
 // End of cart.js
-
 // // /////////////////////////////////////////////////////////
 // // // I keep the input in the fields of the form
 // // // even after changing pages
@@ -287,5 +285,4 @@ postForm();
 //     document.getElementById('address').value = dataLocalStorageObjet.address;
 //     document.getElementById('city').value = dataLocalStorageObjet.city;
 //     document.getElementById('email').value = dataLocalStorageObjet.email;
-
 // // ////////////////////////////////////////////////////////
