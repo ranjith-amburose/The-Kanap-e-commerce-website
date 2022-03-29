@@ -116,5 +116,4 @@ addToCart.addEventListener('click', (event) => {
     addConfirm();
   }
 });
-
 // End of product.js
